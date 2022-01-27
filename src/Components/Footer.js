@@ -6,3 +6,4 @@ export const Footer = () => {
     </footer>
   );
 };
+// 256706260121;

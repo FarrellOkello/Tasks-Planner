@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 export const About = () => {
   return (
     <div>
-      <p>Version 1.0.0</p>
-      <Link to="/">Go back to home</Link>
+      <h4>Version 1.0.0</h4>
+      <Link to="/">Go back</Link>
     </div>
   );
 };

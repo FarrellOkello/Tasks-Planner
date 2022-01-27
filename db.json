@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Go to the Doctor ",
-      "Day": "january 22nd at 3:00pm ",
-      "reminder": false
-    },
-    {
       "text": "Thank you God",
       "day": "Everyday he is soo good i dont even know what to tell hin ",
       "reminder": true,
       "id": "lC_B-iA"
+    },
+    {
+      "text": "Make new tasks for yourselef",
+      "day": "Today and you life is good ",
+      "reminder": true,
+      "id": "Dnm0Nus"
+    },
+    {
+      "text": "Bath ",
+      "day": "ON 22nd of tommorrow ",
+      "reminder": true,
+      "id": "pnWYWjK"
     }
   ]
 }
